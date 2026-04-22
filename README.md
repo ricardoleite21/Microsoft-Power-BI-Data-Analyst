@@ -6,7 +6,9 @@
 
 ## 📜 Microsoft Power BI Certificate
 
-[![Certificado](C:\Users\Usuario\Downloads\Microsoft Power BI Data.jpg)](https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL)
+## 📜 Meu Certificado
+
+[![Certificado](./certificates/certificado.png)]([https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL](https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL))
 
 [![Ver no Credly](https://img.shields.io/badge/Credly-View-blue?logo=credly)](https://www.credly.com/)
 ---
