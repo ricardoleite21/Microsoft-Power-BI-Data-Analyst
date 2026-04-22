@@ -6,11 +6,8 @@
 
 ## 📜 Microsoft Power BI Certificate
 
-## 📜 Meu Certificado
+[![Certificado](./certificates/certificado.png)](https:/[/www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL](https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL))
 
-[![Certificado](./certificates/certificado.png)]([https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL](https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL))
-
-[![Ver no Credly](https://img.shields.io/badge/Credly-View-blue?logo=credly)](https://www.credly.com/)
 ---
 
 ### 📖 What you'll learn
