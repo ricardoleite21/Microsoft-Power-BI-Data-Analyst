@@ -94,11 +94,3 @@ This repo is open source! Feel free to:
 > **Disclaimer:**
 > All content is for educational purposes only and is shared to help aspiring data professionals. Please don’t submit this work as your own in graded assessments—let’s keep it ethical!
 
----
-
-<p align="center">
-  <b>✨ I’m always open to networking, collaboration, or sharing insights ✨</b><br>
-  <i>Don’t be shy — connect with me on LinkedIn! 👋</i><br><br>
-  <a href="https://www.linkedin.com/in/ricardo-oliveira-junqueira-leite-7b0a639a/">
-     </a>
-</p>
