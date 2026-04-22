@@ -4,23 +4,11 @@
   <i>Launch your career as a Power BI analyst. Build job-ready skills and earn a credential from Microsoft.</i>
 </p>
 
-<p align="center">
-  <a href="[https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL](https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL)" target="_blank">
-      </a>
-</p>
+## 📜 Microsoft Power BI Certificate
 
-<p align="center">
-  <a href="[https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL](https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL)" target="_blank">
-    <img src="./certificates/microsoft-power-bi-certificate.png" alt="Microsoft Power BI Data Analyst Professional Certificate" width="800"/>
-  </a>
-</p>
+[![Certificado](C:\Users\Usuario\Downloads\Microsoft Power BI Data.jpg)](https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL)
 
-<p align="center">
-  <a href="https://www.credly.com/users/jhermienpaul/badges" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-View%20Credential-blue?logo=credly" alt="Credly Badge"/>
-  </a>
-</p>
-
+[![Ver no Credly](https://img.shields.io/badge/Credly-View-blue?logo=credly)](https://www.credly.com/)
 ---
 
 ### 📖 What you'll learn
