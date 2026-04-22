@@ -4,7 +4,7 @@
   <i>Launch your career as a Power BI analyst. Build job-ready skills – and must-have AI skills – for an in-demand career. Earn a credential from Microsoft. No prior experience required.</i>
   <br><br>
   <a href="https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst" target="_blank">
-    <img src=["https://img.shields.io/badge/Coursera-Microsoft%20PBI%20Data%20Analyst%20Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera: Microsoft Power BI Data Analyst Professional Certificate"](https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL)/>
+    <img src=["C:\Users\Usuario\Downloads\Coursera 517O1QRDCVWL_page-0001.jpg"](https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL)/>
   </a>
 </p>
 
