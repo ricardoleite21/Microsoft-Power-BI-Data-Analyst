@@ -1,16 +1,25 @@
 <h1 align="center">Microsoft Power BI Data Analyst Professional Certificate</h1>
 
 <p align="center">
-  <i>Launch your career as a Power BI analyst. Build job-ready skills – and must-have AI skills – for an in-demand career. Earn a credential from Microsoft. No prior experience required.</i>
-  <br><br>
-  <a href="https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst" target="_blank">
-    <img src=["C:\Users\Usuario\Downloads\Coursera 517O1QRDCVWL_page-0001.jpg"](https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL)/>
+  <i>Launch your career as a Power BI analyst. Build job-ready skills and earn a credential from Microsoft.</i>
+</p>
+
+<p align="center">
+  <a href="[https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL](https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL)" target="_blank">
+      </a>
+</p>
+
+<p align="center">
+  <a href="[https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL](https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL)" target="_blank">
+    <img src="./certificates/microsoft-power-bi-certificate.png" alt="Microsoft Power BI Data Analyst Professional Certificate" width="800"/>
   </a>
 </p>
 
-![Certificate](./Microsoft%20Power%20BI%20Data%20Analyst%20Professional%20Certificate.png)
-
-[![Verify this certificate on Credly](https://img.shields.io/badge/Credly-View%20Credential-blue?logo=credly)](https://www.credly.com/users/jhermienpaul/badges)
+<p align="center">
+  <a href="https://www.credly.com/users/jhermienpaul/badges" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-View%20Credential-blue?logo=credly" alt="Credly Badge"/>
+  </a>
+</p>
 
 ---
 
