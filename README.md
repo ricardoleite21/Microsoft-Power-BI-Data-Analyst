@@ -4,12 +4,6 @@
   <i>Launch your career as a Power BI analyst. Build job-ready skills and earn a credential from Microsoft.</i>
 </p>
 
-## 📜 Microsoft Power BI Certificate
-
-[![Certificado](./certificates/certificado.png)](https:/[/www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL](https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL))
-
----
-
 ### 📖 What you'll learn
 
 - Learn to use Power BI to connect to data sources and transform them into meaningful insights.
