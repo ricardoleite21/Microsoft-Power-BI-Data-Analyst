@@ -10,9 +10,6 @@
 - Prepare Excel data for analysis in Power BI using the most common formulas and functions in a worksheet.
 - Learn to use the visualization and report capabilities of Power BI to create compelling reports and dashboards.
 - Demonstrate your new skills with a capstone project and prepare for the industry-recognized Microsoft PL-300 Certification exam.   
-
-#
-![Certificado](Microsoft Power BI Data.png)(https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL)
 ### 📈 Skills you'll gain
 
 [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0057b7?style=for-the-badge)](#)
