@@ -12,7 +12,7 @@
 - Demonstrate your new skills with a capstone project and prepare for the industry-recognized Microsoft PL-300 Certification exam.   
 
 #
-
+[![Certificado](./Microsoft Power BI Data.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/517O1QRDCVWL)
 ### 📈 Skills you'll gain
 
 [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0057b7?style=for-the-badge)](#)
