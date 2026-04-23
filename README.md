@@ -27,15 +27,6 @@
 
 #
 
-### 🏆 Endorsements and recognition
-
-- **ACE® College Credit**: Eligible for up to **5 US semester credits** via ACE recommendation
-- **FIBAA (ECTS) Certified**: Earn **8 ECTS credits** recognized by European universities
-- **Industry-Relevant & Trusted**: Microsoft-designed curriculum (used by 97% of Fortune 500 companies)
-- **Microsoft PL‑300 Certification**: Completers receive a **50% exam voucher** for PL‑300 Microsoft Power BI Data Analyst Associate
-
-#
-
 ### 📚 Courses and lessons
 
 1. **Preparing Data for Analysis with Microsoft Excel**  
